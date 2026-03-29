@@ -1,10 +1,13 @@
 """
 TicTacToeGameApp.py
-CS 534 - Individual Project Assignment 3
 
 Description: Main application that allows the human user to select two players
              from six available strategies and play a best-of-three Tic-Tac-Toe
              game. The game repeats upon user request.
+
+Author: Dennis Chavez Romero
+Course: CS 534 - Artificial Intelligence
+Date: 03/29/2026
 """
 
 from TicTacToeClass import TicTacToe, get_player
